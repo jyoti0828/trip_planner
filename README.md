@@ -1,1 +1,3 @@
-# trip_planner
+# Trip_Planner
+Welcome to the Trip Planner repository! 
+<br/> This project is designed to help users effortlessly plan their travels by providing a comprehensive set of tools and features for organizing and optimizing their trips.
