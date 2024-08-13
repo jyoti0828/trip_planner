@@ -201,9 +201,9 @@ body { background: var(--white); }
 
 .helpline-box .icon-box ion-icon { --ionicon-stroke-width: 40px; }
 
-.header-top .logo { margin-inline: relative; }
+.header-top .logo { margin-inline: auto; }
 
-.header-top .logo img { max-width: 20px; }
+.header-top .logo img { max-width: 100px; }
 
 .header-btn-group {
   justify-self: flex-end;
